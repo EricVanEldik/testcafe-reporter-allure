@@ -4,7 +4,7 @@ This is the **allure** reporter plugin for [TestCafe](http://devexpress.github.i
 ## Install
 
 ```
-npm install testcafe-reporter-allure
+npm install EricVanEldik/testcafe-reporter-allure
 ```
 
 ## Usage
