@@ -2,6 +2,10 @@
   "name": "testcafe-reporter-allure",
   "description": "Allure is a reporter for testcafe. It publishes visual reports for testcafe tests.",
   "bundleDependencies": false,
+  "author": {
+    "name": "Eric van Eldik",
+    "email": "ericvaneldik@gmail.com"
+  },
   "dependencies": {
     "allure-commandline": "^2.5.0",
     "allure-js-commons": "^1.3.2",
